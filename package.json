@@ -1,0 +1,23 @@
+{
+  "name": "curl",
+  "version": "1.0.0",
+  "description": "a tool to curl data and generate statistics",
+  "main": "curl.js",
+  "scripts": {
+    "start": "node curl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "curl"
+  ],
+  "author": "jack.j.xie",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "js-yaml": "^3.13.1",
+    "moment": "^2.24.0",
+    "node-libcurl": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}

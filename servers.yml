@@ -1,0 +1,50 @@
+###
+vutlr:
+  - location: Frankfurt, DE
+    100m: https://fra-de-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://fra-de-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Amsterdam, NL
+    100m: https://ams-nl-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://ams-nl-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Paris, France
+    100m: https://par-fr-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://par-fr-ping.vultr.com/vultr.com.1000MB.bin
+  - location: London, UK
+    100m: https://lon-gb-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://lon-gb-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Singapore
+    100m: https://sgp-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://sgp-ping.vultr.com/vultr.com.1000MB.bin
+  - location: New York (NJ)
+    100m: https://nj-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://nj-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Tokyo, Japan
+    100m: https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Toronto, Canada
+    100m: https://tor-ca-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Chicago, Illinois
+    100m: https://il-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://il-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Atlanta, Georgia
+    100m: https://ga-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://ga-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Miami, Florida
+    100m: https://fl-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://fl-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Seattle, Washington
+    100m: https://wa-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://wa-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Dallas, Texas
+    100m: https://tx-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://tx-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Silicon Valley, California
+    100m: https://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Los Angeles, California
+    100m: https://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin
+  - location: Sydney, Australia
+    100m: https://syd-au-ping.vultr.com/vultr.com.100MB.bin
+    1000m: https://syd-au-ping.vultr.com/vultr.com.1000MB.bin
