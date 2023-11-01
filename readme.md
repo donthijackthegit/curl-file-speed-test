@@ -1,6 +1,6 @@
 # CURL file report #
-This little app will curl files from server.yml and generate report for you to bunch check which is the fastest
-server in your region. You can modify the servers in server.yml
+This small utility will use curl to download file from server.yml and generate report for you to check which is the fastest
+node from where you run the util. You can modify the servers in server.yml
 
 ## Installation ##
 Make sure you have nodejs and npm installed, 
